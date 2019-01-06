@@ -8,17 +8,17 @@
 				"thumbUrl": "w04fIrS.jpg",
                 "url": "Bwqqpii.jpg",
                 "url2": "YLrJPq6.png",
-                "url3": "2ZcMV6M.png",
+                "url3": "2ZcMV6M.png"
 			},
 			{
 				"name": "w2",
 				"thumbUrl": "EEqHK4K.jpg",
-                "url": "r3j8TpB.jpg",
+                "url": "r3j8TpB.jpg"
 			},
 			{
 				"name": "w3",
 				"thumbUrl": "w9InXua.jpg",
-                "url": "hWgEy1w.jpg",
+                "url": "hWgEy1w.jpg"
 			}
 		]
 
