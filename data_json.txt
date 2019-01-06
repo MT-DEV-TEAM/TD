@@ -1,0 +1,41 @@
+{
+    "Categories": [],
+    
+	"Wallpapers":
+        [
+			{
+				"name": "w1",
+				"author": "",
+				"thumbUrl": "njSor2V.png",
+                "url": "Bwqqpii.jpg",
+                "url2": "YLrJPq6.png",
+                "url3": "2ZcMV6M.png",
+                "category": "parallax",
+                "parallax": "true",
+                "premium": "true",
+                "sku": ""
+			},
+			{
+				"name": "w2",
+				"author": "",
+				"thumbUrl": "EEqHK4K.jpg",
+                "url": "r3j8TpB.jpg",
+                "category": "parallax",
+                "parallax": "true",
+                "premium": "true",
+                "sku": ""
+			},
+			{
+				"name": "w3",
+				"author": "",
+				"thumbUrl": "w9InXua.jpg",
+                "url": "hWgEy1w.jpg",
+                "category": "parallax",
+                "parallax": "true",
+                "premium": "true",
+                "sku": ""
+			}
+		]
+
+
+}
