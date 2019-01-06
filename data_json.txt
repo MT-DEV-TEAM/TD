@@ -6,7 +6,7 @@
 			{
 				"name": "w1",
 				"author": "",
-				"thumbUrl": "njSor2V.png",
+				"thumbUrl": "w04fIrS.jpg",
                 "url": "Bwqqpii.jpg",
                 "url2": "YLrJPq6.png",
                 "url3": "2ZcMV6M.png",
