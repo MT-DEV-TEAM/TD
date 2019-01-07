@@ -25,6 +25,6 @@
 {"name":"w21", "thumbUrl":"D1sWX7c.jpg", "url":"KWmrmUM.jpg", "url2":"0DoBA7Y.png"},
 {"name":"w22", "thumbUrl":"Sj3OoKd.jpg", "url":"g1X2qRR.jpg"},
 {"name":"w23", "thumbUrl":"UQOcBQn.jpg", "url":"aVAif1L.jpg"},
-{"name":"w24", "thumbUrl":"9tSiShe.jpg", "url":"HzdiFsh.jpg"},
+{"name":"w24", "thumbUrl":"9tSiShe.jpg", "url":"HzdiFsh.jpg"}
 ]
 }
