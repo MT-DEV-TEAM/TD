@@ -21,8 +21,8 @@
 {"name":"w17", "thumbUrl":"ryGdylK.jpg", "url":"fJBmp4H.jpg"},
 {"name":"w18", "thumbUrl":"JB0KMX8.jpg", "url":"gj8YMrp.jpg"},
 {"name":"w19", "thumbUrl":"JRSA7OA.jpg", "url":"dXhw8pp.jpg"},
-{"name":"w20", "thumbUrl":"B7FR8ut.jpg", "url":"jcufLeX.jpg"},
-{"name":"w21", "thumbUrl":"D1sWX7c.jpg", "url":"KWmrmUM.jpg", "url2":"0DoBA7Y.png"},
+{"name":"w20", "thumbUrl":"D1sWX7c.jpg", "url":"KWmrmUM.jpg", "url2":"0DoBA7Y.png"},
+{"name":"w21", "thumbUrl":"B7FR8ut.jpg", "url":"jcufLeX.jpg"},
 {"name":"w22", "thumbUrl":"Sj3OoKd.jpg", "url":"g1X2qRR.jpg"},
 {"name":"w23", "thumbUrl":"UQOcBQn.jpg", "url":"aVAif1L.jpg"},
 {"name":"w24", "thumbUrl":"9tSiShe.jpg", "url":"HzdiFsh.jpg"}
